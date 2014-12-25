@@ -15,3 +15,7 @@ Compatible with:
 * OpenDNS
 * OpenNIC
 * Soltysiak
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mba811/dnscrypt-osxclient/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
